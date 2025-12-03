@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966658683880",
+    "project_id": "lession-labs",
+    "storage_bucket": "lession-labs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966658683880:android:a64e9b74d16f213a816a5d",
+        "android_client_info": {
+          "package_name": "com.example.lessionlab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMurjahFJHXy0YnnwsNMP4XzW5ls5E0TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
