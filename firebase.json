@@ -1,0 +1,23 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "lession-labs",
+                    "appId": "1:966658683880:android:a64e9b74d16f213a816a5d",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "lession-labs",
+                    "configurations": {
+                        "android": "1:966658683880:android:a64e9b74d16f213a816a5d",
+                        "ios": "1:966658683880:ios:ff7461dc4343c0e4816a5d",
+                        "web": "1:966658683880:web:8f80bab3c18c7587816a5d"
+                    }
+                }
+            }
+        }
+    }
+}
